@@ -1,0 +1,10 @@
+name: binder-env
+channels:
+  - conda-forge
+dependencies:
+  - llvmdev
+  - clangdev
+  - cmake
+  - cxx-compiler
+  - pybind11
+  - python
